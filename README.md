@@ -13,7 +13,7 @@ git clone git@github.com:viniciusgomes/.conf.git ~/.
 echo ". ~/.conf/colors.sh" >> ~/.bash_profile
 
 ###3º
-#### Include cli customization into profle
+#### Include cli customization into profile
 echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile
 
 ###4º
