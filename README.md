@@ -6,7 +6,7 @@ Simple configurations for costumize my own CLI.
 
 ###1º
 #### First clone .conf repo into home folder
-git clone git@github.com:viniciusgomes/.conf.git ~/.
+git clone https://github.com/viniciusgomes/.conf.git
 
 ###2º
 #### Include color script into profile
