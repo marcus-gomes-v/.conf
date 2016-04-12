@@ -17,7 +17,10 @@ echo ". ~/.conf/colors.sh" >> ~/.bashrc*
 
 ###3º
 #### Include cli customization into profile
-echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile
+**Mac OS**<br>
+echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile<br>
+**Debian | Ubuntu**<br>
+echo ". ~/.conf/cli-apparence.sh" >> ~/.bashrc
 
 ###4º
 #### That's All
