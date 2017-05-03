@@ -34,7 +34,7 @@ $ echo ". ~/.conf/colors.sh" >> ~/.bashrc
 $ echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile
 ```
 **Debian | Ubuntu**
-````
+```
 $ echo ". ~/.conf/cli-apparence.sh" >> ~/.bashrc
 ```
 
