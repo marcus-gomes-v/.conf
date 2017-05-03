@@ -20,7 +20,7 @@ $ git clone https://github.com/viniciusgomes/.conf.git
 #### Include color script into profile
 **Mac Os**
 ```
-$ echo ". ~/.conf/colors.sh" >> ~/.bash_profile<br>
+$ echo ". ~/.conf/colors.sh" >> ~/.bash_profile
 ```
 **Debian | Ubuntu**
 ```
@@ -31,7 +31,7 @@ $ echo ". ~/.conf/colors.sh" >> ~/.bashrc
 #### Include cli customization into profile
 **Mac OS**
 ```
-$ echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile<br>
+$ echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile
 ```
 **Debian | Ubuntu**
 ````
