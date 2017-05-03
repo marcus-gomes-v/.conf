@@ -38,6 +38,7 @@ $ echo ". ~/.conf/cli-apparence.sh" >> ~/.bash_profile
 $ echo ". ~/.conf/cli-apparence.sh" >> ~/.bashrc
 ```
 
+
 ### 4º
 #### That's All
 Restart your terminal.
